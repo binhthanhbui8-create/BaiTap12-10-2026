@@ -1,0 +1,15 @@
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.AssemblyInfoInputs.cache
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.AssemblyInfo.cs
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.csproj.CoreCompileInputs.cache
+C:\Users\binh\Desktop\12-10\4.8\4.8\bin\Debug\net10.0-windows\4.8.exe
+C:\Users\binh\Desktop\12-10\4.8\4.8\bin\Debug\net10.0-windows\4.8.deps.json
+C:\Users\binh\Desktop\12-10\4.8\4.8\bin\Debug\net10.0-windows\4.8.runtimeconfig.json
+C:\Users\binh\Desktop\12-10\4.8\4.8\bin\Debug\net10.0-windows\4.8.dll
+C:\Users\binh\Desktop\12-10\4.8\4.8\bin\Debug\net10.0-windows\4.8.pdb
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.dll
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\refint\4.8.dll
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.pdb
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.genruntimeconfig.cache
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\ref\4.8.dll
+C:\Users\binh\Desktop\12-10\4.8\4.8\obj\Debug\net10.0-windows\4.8.csproj.Up2Date
